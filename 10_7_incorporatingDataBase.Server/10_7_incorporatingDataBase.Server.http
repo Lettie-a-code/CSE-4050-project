@@ -1,6 +1,0 @@
-@_10_7_incorporatingDataBase.Server_HostAddress = http://localhost:5038
-
-GET {{_10_7_incorporatingDataBase.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
